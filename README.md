@@ -15,7 +15,7 @@ It uses AD8232 ECG Module to read the electrical impulse of the Heart with each 
 You need to download the following:
 
 - ESP: [https://github.com/esp8266/Arduino](https://github.com/esp8266/Arduino "https://github.com/esp8266/Arduino") ( Follow the instructions on this page)
-- Android Application: Can get it from the repository or from [here](https://raw.githubusercontent.com/sam-tj/Pocket-ECG-Monitor/master/Android Application/ECG Plus.apk "here") 
+- Android Application: Can get it from the repository or from [here](https://raw.githubusercontent.com/sam-tj/Pocket-ECG-Monitor/master/Android%20Application/ECG%20Plus.apk"here") 
 
 ------------
 
@@ -36,7 +36,7 @@ This project is a DIY ECG Monitor which displays the Graph on your andoird phone
 3. Attach everything
 4. Upload the code
 5. Install the Android Application
-	🔥🔥🔥🔥🔥
+🔥🔥🔥🔥🔥
 
 ------------
 
