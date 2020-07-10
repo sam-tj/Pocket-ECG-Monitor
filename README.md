@@ -36,6 +36,7 @@ This project is a DIY ECG Monitor which displays the Graph on your andoird phone
 3. Attach everything
 4. Upload the code
 5. Install the Android Application
+
 	🥂
 
 ------------
