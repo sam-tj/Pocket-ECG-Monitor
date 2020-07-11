@@ -1,5 +1,7 @@
 # Pocket ECG Monitor
 
+![Complete Hardware](/images/Hardware_Pic_1.jpeg)
+
 ![Sample User ECG](/images/User_ECG_Screenshot_1.jpg )
 
 ------------
